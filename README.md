@@ -1,0 +1,3 @@
+# Arduino Wall-Clock Manager
+
+Personal hobby project in order to controll my self-built wall clock. Adjust appearance and some other stuff...

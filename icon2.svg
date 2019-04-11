@@ -1,0 +1,9340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   version="1.1"
+   viewBox="0 0 500 500"
+   id="svg2346"
+   sodipodi:docname="icon2.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata2352">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2350" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview2348"
+     showgrid="false"
+     inkscape:zoom="1.3350176"
+     inkscape:cx="250"
+     inkscape:cy="250"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2346" />
+  <circle
+     cx="250"
+     cy="250"
+     r="240"
+     id="circle2" />
+  <circle
+     cx="250"
+     cy="250"
+     r="220"
+     fill="white"
+     id="circle4" />
+  <g
+     id="group0">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect6" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led0" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line9" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line11" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line13" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line15" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line17" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line19" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line21" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect23" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect25" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line27" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line29" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line31" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line33" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line35" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line37" />
+  </g>
+  <g
+     id="group1"
+     transform="rotate(6,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect40" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led1" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line43" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line45" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line47" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line49" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line51" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line53" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line55" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect57" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect59" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line61" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line63" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line65" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line67" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line69" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line71" />
+  </g>
+  <g
+     id="group2"
+     transform="rotate(12,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect74" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led2" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line77" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line79" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line81" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line83" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line85" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line87" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line89" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect91" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect93" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line95" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line97" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line99" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line101" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line103" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line105" />
+  </g>
+  <g
+     id="group3"
+     transform="rotate(18,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect108" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led3" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line111" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line113" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line115" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line117" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line119" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line121" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line123" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect125" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect127" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line129" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line131" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line133" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line135" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line137" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line139" />
+  </g>
+  <g
+     id="group4"
+     transform="rotate(24,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect142" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led4" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line145" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line147" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line149" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line151" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line153" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line155" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line157" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect159" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect161" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line163" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line165" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line167" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line169" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line171" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line173" />
+  </g>
+  <g
+     id="group5"
+     transform="rotate(30,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect176" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led5" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line179" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line181" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line183" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line185" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line187" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line189" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line191" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect193" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect195" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line197" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line199" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line201" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line203" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line205" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line207" />
+  </g>
+  <g
+     id="group6"
+     transform="rotate(36,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect210" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led6" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line213" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line215" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line217" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line219" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line221" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line223" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line225" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect227" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect229" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line231" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line233" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line235" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line237" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line239" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line241" />
+  </g>
+  <g
+     id="group7"
+     transform="rotate(42,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect244" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led7" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line247" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line249" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line251" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line253" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line255" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line257" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line259" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect261" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect263" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line265" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line267" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line269" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line271" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line273" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line275" />
+  </g>
+  <g
+     id="group8"
+     transform="rotate(48,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect278" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led8" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line281" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line283" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line285" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line287" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line289" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line291" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line293" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect295" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect297" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line299" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line301" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line303" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line305" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line307" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line309" />
+  </g>
+  <g
+     id="group9"
+     transform="rotate(54,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect312" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led9" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line315" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line317" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line319" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line321" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line323" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line325" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line327" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect329" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect331" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line333" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line335" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line337" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line339" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line341" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line343" />
+  </g>
+  <g
+     id="group10"
+     transform="rotate(60,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect346" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led10" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line349" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line351" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line353" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line355" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line357" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line359" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line361" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect363" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect365" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line367" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line369" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line371" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line373" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line375" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line377" />
+  </g>
+  <g
+     id="group11"
+     transform="rotate(66,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect380" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led11" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line383" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line385" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line387" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line389" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line391" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line393" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line395" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect397" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect399" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line401" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line403" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line405" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line407" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line409" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line411" />
+  </g>
+  <g
+     id="group12"
+     transform="rotate(72,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect414" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led12" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line417" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line419" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line421" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line423" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line425" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line427" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line429" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect431" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect433" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line435" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line437" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line439" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line441" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line443" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line445" />
+  </g>
+  <g
+     id="group13"
+     transform="rotate(78,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect448" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led13" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line451" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line453" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line455" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line457" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line459" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line461" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line463" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect465" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect467" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line469" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line471" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line473" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line475" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line477" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line479" />
+  </g>
+  <g
+     id="group14"
+     transform="rotate(84,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect482" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led14" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line485" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line487" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line489" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line491" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line493" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line495" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line497" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect499" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect501" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line503" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line505" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line507" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line509" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line511" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line513" />
+  </g>
+  <g
+     id="group15"
+     transform="rotate(90,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect516" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led15" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line519" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line521" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line523" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line525" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line527" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line529" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line531" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect533" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect535" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line537" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line539" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line541" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line543" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line545" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line547" />
+  </g>
+  <g
+     id="group16"
+     transform="rotate(96,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect550" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led16" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line553" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line555" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line557" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line559" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line561" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line563" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line565" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect567" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect569" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line571" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line573" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line575" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line577" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line579" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line581" />
+  </g>
+  <g
+     id="group17"
+     transform="rotate(102,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect584" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led17" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line587" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line589" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line591" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line593" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line595" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line597" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line599" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect601" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect603" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line605" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line607" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line609" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line611" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line613" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line615" />
+  </g>
+  <g
+     id="group18"
+     transform="rotate(108,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect618" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led18" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line621" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line623" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line625" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line627" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line629" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line631" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line633" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect635" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect637" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line639" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line641" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line643" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line645" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line647" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line649" />
+  </g>
+  <g
+     id="group19"
+     transform="rotate(114,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect652" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led19" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line655" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line657" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line659" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line661" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line663" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line665" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line667" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect669" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect671" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line673" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line675" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line677" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line679" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line681" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line683" />
+  </g>
+  <g
+     id="group20"
+     transform="rotate(120,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect686" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led20" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line689" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line691" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line693" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line695" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line697" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line699" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line701" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect703" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect705" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line707" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line709" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line711" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line713" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line715" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line717" />
+  </g>
+  <g
+     id="group21"
+     transform="rotate(126,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect720" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led21" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line723" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line725" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line727" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line729" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line731" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line733" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line735" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect737" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect739" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line741" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line743" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line745" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line747" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line749" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line751" />
+  </g>
+  <g
+     id="group22"
+     transform="rotate(132,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect754" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led22" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line757" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line759" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line761" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line763" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line765" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line767" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line769" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect771" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect773" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line775" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line777" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line779" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line781" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line783" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line785" />
+  </g>
+  <g
+     id="group23"
+     transform="rotate(138,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect788" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led23" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line791" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line793" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line795" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line797" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line799" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line801" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line803" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect805" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect807" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line809" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line811" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line813" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line815" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line817" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line819" />
+  </g>
+  <g
+     id="group24"
+     transform="rotate(144,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect822" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led24" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line825" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line827" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line829" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line831" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line833" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line835" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line837" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect839" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect841" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line843" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line845" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line847" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line849" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line851" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line853" />
+  </g>
+  <g
+     id="group25"
+     transform="rotate(150,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect856" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led25" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line859" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line861" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line863" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line865" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line867" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line869" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line871" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect873" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect875" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line877" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line879" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line881" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line883" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line885" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line887" />
+  </g>
+  <g
+     id="group26"
+     transform="rotate(156,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect890" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led26" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line893" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line895" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line897" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line899" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line901" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line903" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line905" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect907" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect909" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line911" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line913" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line915" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line917" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line919" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line921" />
+  </g>
+  <g
+     id="group27"
+     transform="rotate(162,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect924" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led27" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line927" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line929" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line931" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line933" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line935" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line937" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line939" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect941" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect943" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line945" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line947" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line949" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line951" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line953" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line955" />
+  </g>
+  <g
+     id="group28"
+     transform="rotate(168,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect958" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led28" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line961" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line963" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line965" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line967" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line969" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line971" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line973" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect975" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect977" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line979" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line981" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line983" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line985" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line987" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line989" />
+  </g>
+  <g
+     id="group29"
+     transform="rotate(174,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect992" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led29" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line995" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line997" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line999" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1001" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1003" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1005" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1007" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1009" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1011" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1013" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1015" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1017" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1019" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1021" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1023" />
+  </g>
+  <g
+     id="group30"
+     transform="rotate(180,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1026" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led30" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1029" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1031" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1033" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1035" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1037" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1039" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1041" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1043" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1045" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1047" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1049" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1051" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1053" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1055" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1057" />
+  </g>
+  <g
+     id="group31"
+     transform="rotate(186,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1060" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led31" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1063" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1065" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1067" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1069" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1071" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1073" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1075" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1077" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1079" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1081" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1083" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1085" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1087" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1089" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1091" />
+  </g>
+  <g
+     id="group32"
+     transform="rotate(192,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1094" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led32" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1097" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1099" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1101" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1103" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1105" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1107" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1109" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1111" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1113" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1115" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1117" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1119" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1121" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1123" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1125" />
+  </g>
+  <g
+     id="group33"
+     transform="rotate(198,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1128" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led33" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1131" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1133" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1135" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1137" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1139" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1141" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1143" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1145" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1147" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1149" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1151" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1153" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1155" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1157" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1159" />
+  </g>
+  <g
+     id="group34"
+     transform="rotate(204,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1162" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led34" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1165" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1167" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1169" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1171" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1173" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1175" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1177" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1179" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1181" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1183" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1185" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1187" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1189" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1191" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1193" />
+  </g>
+  <g
+     id="group35"
+     transform="rotate(210,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1196" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led35" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1199" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1201" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1203" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1205" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1207" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1209" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1211" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1213" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1215" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1217" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1219" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1221" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1223" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1225" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1227" />
+  </g>
+  <g
+     id="group36"
+     transform="rotate(216,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1230" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led36" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1233" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1235" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1237" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1239" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1241" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1243" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1245" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1247" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1249" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1251" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1253" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1255" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1257" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1259" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1261" />
+  </g>
+  <g
+     id="group37"
+     transform="rotate(222,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1264" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led37" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1267" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1269" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1271" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1273" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1275" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1277" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1279" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1281" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1283" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1285" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1287" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1289" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1291" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1293" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1295" />
+  </g>
+  <g
+     id="group38"
+     transform="rotate(228,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1298" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led38" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1301" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1303" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1305" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1307" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1309" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1311" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1313" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1315" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1317" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1319" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1321" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1323" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1325" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1327" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1329" />
+  </g>
+  <g
+     id="group39"
+     transform="rotate(234,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1332" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led39" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1335" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1337" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1339" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1341" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1343" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1345" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1347" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1349" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1351" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1353" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1355" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1357" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1359" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1361" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1363" />
+  </g>
+  <g
+     id="group40"
+     transform="rotate(240,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1366" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led40" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1369" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1371" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1373" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1375" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1377" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1379" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1381" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1383" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1385" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1387" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1389" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1391" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1393" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1395" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1397" />
+  </g>
+  <g
+     id="group41"
+     transform="rotate(246,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1400" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led41" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1403" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1405" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1407" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1409" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1411" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1413" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1415" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1417" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1419" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1421" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1423" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1425" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1427" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1429" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1431" />
+  </g>
+  <g
+     id="group42"
+     transform="rotate(252,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1434" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led42" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1437" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1439" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1441" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1443" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1445" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1447" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1449" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1451" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1453" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1455" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1457" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1459" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1461" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1463" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1465" />
+  </g>
+  <g
+     id="group43"
+     transform="rotate(258,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1468" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led43" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1471" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1473" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1475" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1477" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1479" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1481" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1483" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1485" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1487" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1489" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1491" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1493" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1495" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1497" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1499" />
+  </g>
+  <g
+     id="group44"
+     transform="rotate(264,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1502" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led44" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1505" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1507" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1509" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1511" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1513" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1515" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1517" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1519" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1521" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1523" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1525" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1527" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1529" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1531" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1533" />
+  </g>
+  <g
+     id="group45"
+     transform="rotate(270,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1536" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led45" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1539" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1541" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1543" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1545" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1547" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1549" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1551" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1553" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1555" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1557" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1559" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1561" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1563" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1565" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1567" />
+  </g>
+  <g
+     id="group46"
+     transform="rotate(276,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1570" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led46" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1573" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1575" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1577" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1579" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1581" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1583" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1585" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1587" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1589" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1591" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1593" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1595" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1597" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1599" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1601" />
+  </g>
+  <g
+     id="group47"
+     transform="rotate(282,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1604" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led47" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1607" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1609" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1611" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1613" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1615" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1617" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1619" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1621" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1623" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1625" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1627" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1629" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1631" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1633" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1635" />
+  </g>
+  <g
+     id="group48"
+     transform="rotate(288,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1638" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led48" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1641" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1643" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1645" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1647" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1649" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1651" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1653" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1655" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1657" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1659" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1661" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1663" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1665" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1667" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1669" />
+  </g>
+  <g
+     id="group49"
+     transform="rotate(294,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1672" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led49" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1675" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1677" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1679" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1681" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1683" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1685" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1687" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1689" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1691" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1693" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1695" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1697" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1699" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1701" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1703" />
+  </g>
+  <g
+     id="group50"
+     transform="rotate(300,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1706" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led50" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1709" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1711" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1713" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1715" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1717" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1719" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1721" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1723" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1725" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1727" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1729" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1731" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1733" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1735" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1737" />
+  </g>
+  <g
+     id="group51"
+     transform="rotate(306,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1740" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led51" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1743" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1745" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1747" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1749" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1751" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1753" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1755" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1757" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1759" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1761" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1763" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1765" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1767" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1769" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1771" />
+  </g>
+  <g
+     id="group52"
+     transform="rotate(312,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1774" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led52" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1777" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1779" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1781" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1783" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1785" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1787" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1789" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1791" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1793" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1795" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1797" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1799" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1801" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1803" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1805" />
+  </g>
+  <g
+     id="group53"
+     transform="rotate(318,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1808" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led53" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1811" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1813" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1815" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1817" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1819" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1821" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1823" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1825" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1827" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1829" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1831" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1833" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1835" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1837" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1839" />
+  </g>
+  <g
+     id="group54"
+     transform="rotate(324,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1842" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led54" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1845" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1847" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1849" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1851" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1853" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1855" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1857" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1859" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1861" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1863" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1865" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1867" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1869" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1871" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1873" />
+  </g>
+  <g
+     id="group55"
+     transform="rotate(330,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1876" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led55" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1879" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1881" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1883" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1885" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1887" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1889" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1891" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1893" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1895" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1897" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1899" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1901" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1903" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1905" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1907" />
+  </g>
+  <g
+     id="group56"
+     transform="rotate(336,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1910" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led56" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1913" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1915" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1917" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1919" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1921" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1923" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1925" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1927" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1929" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1931" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1933" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1935" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1937" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1939" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1941" />
+  </g>
+  <g
+     id="group57"
+     transform="rotate(342,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1944" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led57" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1947" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1949" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1951" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1953" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1955" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1957" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1959" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1961" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1963" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1965" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1967" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1969" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1971" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1973" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1975" />
+  </g>
+  <g
+     id="group58"
+     transform="rotate(348,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect1978" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led58" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1981" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1983" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1985" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1987" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1989" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1991" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line1993" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect1995" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect1997" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line1999" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2001" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2003" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2005" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2007" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2009" />
+  </g>
+  <g
+     id="group59"
+     transform="rotate(354,250,250)">
+    <rect
+       x="242.5"
+       y="12.5"
+       width="15"
+       height="15"
+       fill="white"
+       id="rect2012" />
+    <circle
+       cx="250"
+       cy="20"
+       r="6.5"
+       class="led"
+       fill="#BDC3C7"
+       id="led59" />
+    <line
+       x1="250"
+       y1="13.5"
+       x2="250"
+       y2="26.5"
+       stroke-width="0.5"
+       stroke="white"
+       id="line2015" />
+    <line
+       x1="251.25"
+       y1="16.75"
+       x2="256.5"
+       y2="16.75"
+       stroke-width="0.5"
+       stroke="white"
+       id="line2017" />
+    <line
+       x1="251.25"
+       y1="23.25"
+       x2="256.5"
+       y2="23.25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line2019" />
+    <line
+       x1="244.5"
+       y1="21"
+       x2="250"
+       y2="21"
+       stroke-width="0.5"
+       stroke="white"
+       id="line2021" />
+    <line
+       x1="244.5"
+       y1="19"
+       x2="250"
+       y2="19"
+       stroke-width="0.5"
+       stroke="white"
+       id="line2023" />
+    <line
+       x1="244.5"
+       y1="19.25"
+       x2="244.5"
+       y2="15"
+       stroke-width="0.5"
+       stroke="white"
+       id="line2025" />
+    <line
+       x1="244.5"
+       y1="20.75"
+       x2="244.5"
+       y2="25"
+       stroke-width="0.5"
+       stroke="white"
+       id="line2027" />
+    <rect
+       x="250"
+       y="16.5"
+       width="1.5"
+       height="7"
+       fill="white"
+       id="rect2029" />
+    <rect
+       x="249.75"
+       y="19"
+       width="1"
+       height="2"
+       fill="#424949"
+       id="rect2031" />
+    <line
+       x1="241.25"
+       y1="25"
+       x2="242.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2033" />
+    <line
+       x1="241.25"
+       y1="20"
+       x2="242.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2035" />
+    <line
+       x1="241.25"
+       y1="15"
+       x2="242.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2037" />
+    <line
+       x1="258.75"
+       y1="25"
+       x2="257.5"
+       y2="25"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2039" />
+    <line
+       x1="258.75"
+       y1="20"
+       x2="257.5"
+       y2="20"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2041" />
+    <line
+       x1="258.75"
+       y1="15"
+       x2="257.5"
+       y2="15"
+       stroke-width="1.5"
+       stroke="#CACFD2"
+       id="line2043" />
+  </g>
+  <g
+     id="resistor0"
+     transform="rotate(3,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2046" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2048" />
+  </g>
+  <g
+     id="resistor1"
+     transform="rotate(9,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2051" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2053" />
+  </g>
+  <g
+     id="resistor2"
+     transform="rotate(15,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2056" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2058" />
+  </g>
+  <g
+     id="resistor3"
+     transform="rotate(21,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2061" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2063" />
+  </g>
+  <g
+     id="resistor4"
+     transform="rotate(27,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2066" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2068" />
+  </g>
+  <g
+     id="resistor5"
+     transform="rotate(33,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2071" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2073" />
+  </g>
+  <g
+     id="resistor6"
+     transform="rotate(39,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2076" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2078" />
+  </g>
+  <g
+     id="resistor7"
+     transform="rotate(45,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2081" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2083" />
+  </g>
+  <g
+     id="resistor8"
+     transform="rotate(51,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2086" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2088" />
+  </g>
+  <g
+     id="resistor9"
+     transform="rotate(57,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2091" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2093" />
+  </g>
+  <g
+     id="resistor10"
+     transform="rotate(63,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2096" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2098" />
+  </g>
+  <g
+     id="resistor11"
+     transform="rotate(69,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2101" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2103" />
+  </g>
+  <g
+     id="resistor12"
+     transform="rotate(75,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2106" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2108" />
+  </g>
+  <g
+     id="resistor13"
+     transform="rotate(81,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2111" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2113" />
+  </g>
+  <g
+     id="resistor14"
+     transform="rotate(87,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2116" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2118" />
+  </g>
+  <g
+     id="resistor15"
+     transform="rotate(93,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2121" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2123" />
+  </g>
+  <g
+     id="resistor16"
+     transform="rotate(99,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2126" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2128" />
+  </g>
+  <g
+     id="resistor17"
+     transform="rotate(105,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2131" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2133" />
+  </g>
+  <g
+     id="resistor18"
+     transform="rotate(111,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2136" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2138" />
+  </g>
+  <g
+     id="resistor19"
+     transform="rotate(117,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2141" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2143" />
+  </g>
+  <g
+     id="resistor20"
+     transform="rotate(123,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2146" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2148" />
+  </g>
+  <g
+     id="resistor21"
+     transform="rotate(129,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2151" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2153" />
+  </g>
+  <g
+     id="resistor22"
+     transform="rotate(135,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2156" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2158" />
+  </g>
+  <g
+     id="resistor23"
+     transform="rotate(141,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2161" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2163" />
+  </g>
+  <g
+     id="resistor24"
+     transform="rotate(147,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2166" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2168" />
+  </g>
+  <g
+     id="resistor25"
+     transform="rotate(153,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2171" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2173" />
+  </g>
+  <g
+     id="resistor26"
+     transform="rotate(159,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2176" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2178" />
+  </g>
+  <g
+     id="resistor27"
+     transform="rotate(165,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2181" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2183" />
+  </g>
+  <g
+     id="resistor28"
+     transform="rotate(171,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2186" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2188" />
+  </g>
+  <g
+     id="resistor29"
+     transform="rotate(177,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2191" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2193" />
+  </g>
+  <g
+     id="resistor30"
+     transform="rotate(183,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2196" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2198" />
+  </g>
+  <g
+     id="resistor31"
+     transform="rotate(189,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2201" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2203" />
+  </g>
+  <g
+     id="resistor32"
+     transform="rotate(195,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2206" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2208" />
+  </g>
+  <g
+     id="resistor33"
+     transform="rotate(201,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2211" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2213" />
+  </g>
+  <g
+     id="resistor34"
+     transform="rotate(207,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2216" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2218" />
+  </g>
+  <g
+     id="resistor35"
+     transform="rotate(213,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2221" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2223" />
+  </g>
+  <g
+     id="resistor36"
+     transform="rotate(219,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2226" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2228" />
+  </g>
+  <g
+     id="resistor37"
+     transform="rotate(225,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2231" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2233" />
+  </g>
+  <g
+     id="resistor38"
+     transform="rotate(231,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2236" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2238" />
+  </g>
+  <g
+     id="resistor39"
+     transform="rotate(237,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2241" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2243" />
+  </g>
+  <g
+     id="resistor40"
+     transform="rotate(243,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2246" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2248" />
+  </g>
+  <g
+     id="resistor41"
+     transform="rotate(249,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2251" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2253" />
+  </g>
+  <g
+     id="resistor42"
+     transform="rotate(255,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2256" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2258" />
+  </g>
+  <g
+     id="resistor43"
+     transform="rotate(261,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2261" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2263" />
+  </g>
+  <g
+     id="resistor44"
+     transform="rotate(267,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2266" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2268" />
+  </g>
+  <g
+     id="resistor45"
+     transform="rotate(273,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2271" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2273" />
+  </g>
+  <g
+     id="resistor46"
+     transform="rotate(279,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2276" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2278" />
+  </g>
+  <g
+     id="resistor47"
+     transform="rotate(285,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2281" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2283" />
+  </g>
+  <g
+     id="resistor48"
+     transform="rotate(291,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2286" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2288" />
+  </g>
+  <g
+     id="resistor49"
+     transform="rotate(297,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2291" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2293" />
+  </g>
+  <g
+     id="resistor50"
+     transform="rotate(303,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2296" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2298" />
+  </g>
+  <g
+     id="resistor51"
+     transform="rotate(309,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2301" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2303" />
+  </g>
+  <g
+     id="resistor52"
+     transform="rotate(315,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2306" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2308" />
+  </g>
+  <g
+     id="resistor53"
+     transform="rotate(321,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2311" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2313" />
+  </g>
+  <g
+     id="resistor54"
+     transform="rotate(327,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2316" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2318" />
+  </g>
+  <g
+     id="resistor55"
+     transform="rotate(333,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2321" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2323" />
+  </g>
+  <g
+     id="resistor56"
+     transform="rotate(339,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2326" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2328" />
+  </g>
+  <g
+     id="resistor57"
+     transform="rotate(345,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2331" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2333" />
+  </g>
+  <g
+     id="resistor58"
+     transform="rotate(351,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2336" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2338" />
+  </g>
+  <g
+     id="resistor59"
+     transform="rotate(357,250,250)">
+    <rect
+       x="248"
+       y="16.5"
+       width="4"
+       height="7"
+       fill="#979A9A"
+       id="rect2341" />
+    <rect
+       x="248"
+       y="18"
+       width="4"
+       height="4"
+       fill="#7E5109"
+       id="rect2343" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="194.2543"
+     y="104.3504"
+     id="text3161"><tspan
+       sodipodi:role="line"
+       id="tspan3159"
+       x="194.2543"
+       y="104.3504">XII</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="42.751389"
+     y="277.60242"
+     id="text3161-7"><tspan
+       sodipodi:role="line"
+       id="tspan3159-1"
+       x="42.751389"
+       y="277.60242">IX</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="210.53943"
+     y="458.62631"
+     id="text3161-8"><tspan
+       sodipodi:role="line"
+       id="tspan3159-2"
+       x="210.53943"
+       y="458.62631">VI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="382.07275"
+     y="277.84961"
+     id="text3161-6"><tspan
+       sodipodi:role="line"
+       id="tspan3159-0"
+       x="382.07275"
+       y="277.84961">III</tspan></text>
+</svg>

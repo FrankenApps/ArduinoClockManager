@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <link rel="apple-touch-icon" href="logo2.png">
+    <link rel="shortcut icon" type="image/x-icon" href="logo.png">
+    <!-- Color theme for statusbar -->
+    <meta name="theme-color" content="#2196f3">
+    <!-- Your app title -->
+    <title>Wanduhr Controller</title>
+    <!-- Path to Framework7 Library Bundle CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/framework7/4.2.2/css/framework7.bundle.min.css" integrity="sha256-WXIZJ6YBOy08rAXlqh1EvpWy7DEYX+9nHX8du4PJxVM=" crossorigin="anonymous" />
+    <!-- Path to your custom app styles-->
+    <link rel="stylesheet" href="styles.css">
+    <!-- JQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <!-- D3.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.2/d3.min.js" integrity="sha256-k9RyZhvMj2bg0fd8L3IE41t0HpTXnivMoePN/Ksq250=" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <!-- App root element -->
+    <div id="app">
+      <!-- Statusbar overlay -->
+      <div class="statusbar"></div>
+
+      <!-- Your main view, should have "view-main" class -->
+      <div class="view view-main">
+        <!-- Initial Page, "data-name" contains page name -->
+        <div data-name="home" class="page">
+
+          <!-- Top Navbar -->
+          <div class="navbar">
+            <div class="navbar-inner">
+              <div class="title center sliding">Wanduhr Controller</div>
+            </div>
+          </div>
+
+          <!-- Bottom Toolbar -->
+          <div class="toolbar toolbar-bottom">
+            <div class="toolbar-inner">
+              
+            </div>
+          </div>
+
+          <!-- Scrollable page content -->
+          <div class="page-content">
+            <div class="block-title">Einstellungen</div>
+            <div class="list simple-list">
+              <ul>
+                <li>
+                  <span>Uhrmodus</span>
+                  <label class="toggle toggle-init color-black" id="uhrmodusToggle">
+                    <input type="checkbox" checked disabled>
+                    <span class="toggle-icon"></span>
+                  </label>
+                </li>
+                <li>
+                  <span style="color: darkgray">Stoppuhrmodus</span>
+                  <label class="toggle toggle-init color-blue" id="stoppuhrToggle">
+                    <input type="checkbox" disabled>
+                    <span class="toggle-icon"></span>
+                  </label>
+                </li>
+                <li>
+                  <span>Sommerzeit</span>
+                  <label class="toggle toggle-init color-red" id="sommerzeitToggle">
+                    <input type="checkbox">
+                    <span class="toggle-icon"></span>
+                  </label>
+                </li>              
+              </ul>
+            </div>
+
+            <div class="block-title">Übersicht</div>
+            <div class="list simple-list inline-labels no-hairlines-md">
+              <ul>
+                <li>
+                  <span>Uhrzeit</span>
+                  <label class="color-black">
+                    <span id="timeDisplay">00:00:00</span>
+                  </label>
+                </li>      
+                <li class="item-content item-input">
+                  <div class="item-inner">
+                    <div class="row" style="width: 100%">
+                        <div class="item-title color-black col-40">NTP-Provider</div>
+                        <div class="item-input-wrap col-60" style="padding-top: 0.4em">
+                          <input type="text" placeholder="Neuer NTP-Provider" id="ntpProvider" value="europe.pool.ntp.org">
+                          <span class="input-clear-button" style="padding-top: 0.4em"></span>
+                        </div>
+                    </div>
+                    
+                  </div>
+                </li>       
+              </ul>
+            </div>
+
+            <div class="block-title">Design</div>
+            <div class="list simple-list">
+              <ul>
+                <li>
+                  <div class="item-cell flex-shrink-3">
+                    <!-- range slider, enable labels -->
+                    <div class="range-slider range-slider-init color-red" data-label="true" id="sliderRed">
+                      <input type="range" min="0" max="255" step="1" value="50">
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="item-cell flex-shrink-3">
+                    <!-- range slider, enable labels -->
+                    <div class="range-slider range-slider-init color-green" data-label="true" id="sliderGreen">
+                      <input type="range" min="0" max="255" step="1" value="200">
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="item-cell flex-shrink-3">
+                    <!-- range slider, enable labels -->
+                    <div class="range-slider range-slider-init color-blue" data-label="true" id="sliderBlue">
+                      <input type="range" min="0" max="255" step="1" value="150">
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="label-cell">Zeigerfarbe <button id="colorBox" disabled></button> wählen für:</div>
+                </li>
+                  <li>
+                  <div class="item-cell">
+                    
+                      <div class="row">
+                          <!-- Each "cell" has col-[width in percents] class -->
+                          <div class="col-33"><p>Sekunden: <label class="radio"><input type="radio" name="color-radio" value="1" id="secColor"><i class="icon-radio"></i></label></p></div>
+                          <div class="col-33"><p>Minuten: <label class="radio"><input type="radio" name="color-radio" value="2" id="minColor"><i class="icon-radio"></i></label></p></div>
+                          <div class="col-33"><p>Stunden: <label class="radio"><input type="radio" name="color-radio" value="3" id="hourColor"><i class="icon-radio"></i></label></p></div>
+                      </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="label-cell">Hilfsanzeige bearbeiten:</div>
+                  </li>
+                    <li>
+                    <div class="item-cell">
+                      
+                        <div class="row">
+                            <!-- Each "cell" has col-[width in percents] class -->
+                            <div class="col-50"><p>Hilfsanzeige: <label class="radio"><input type="radio" name="color-radio" value="4" id="helperColor"><i class="icon-radio"></i></label></p></div>
+                            <div class="col-50"><p>Anzeigen: <label class="toggle toggle-init color-lightblue" id="helperToggle">
+                                <input type="checkbox" checked>
+                                <span class="toggle-icon"></span>
+                              </label></p></div>
+                        </div>
+                      </div>
+                  </li>
+              </ul>
+
+
+              <div class="block-title">Preview</div>
+            <div class="center sliding">
+              <div style="width: 100%; max-width: 600px;" id="svgContainer">
+
+              </div>
+            </div>
+          </div>
+
+          <div class="list simple-list">
+            <ul>
+              <li>
+                <div class="item-cell flex-shrink-3">
+                    <button class="button" id="applySettings">Apply Settings</button>
+                </div>
+              </li>
+              <li>
+                  <div class="item-cell flex-shrink-3 color-red">
+                      <button class="button">Discard Changes</button>
+                  </div>
+              </li>
+            </ul>
+          </div>
+
+
+            </div>
+
+            
+
+        </div>
+      </div>
+    </div>
+    <!-- Path to Framework7 Library Bundle JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/framework7/4.2.2/js/framework7.bundle.min.js" integrity="sha256-7WPUs16amb62/mQE5xsmbGu3XuNgfATwAqVZ/hzNvCc=" crossorigin="anonymous"></script>
+    <!-- Path to your app js-->
+    <script type="text/javascript" src="script.js"></script>
+
+    <script>
+        var app = new Framework7({
+  // App root element
+  root: '#app',
+  // App Name
+  name: 'My App',
+  // App id
+  id: 'com.myapp.test',
+  // Enable swipe panel
+  panel: {
+    swipe: 'left',
+  },
+  // Add default routes
+  routes: [
+    {
+      path: '/about/',
+      url: 'about.html',
+    },
+  ],
+  // ... other parameters
+});
+
+var mainView = app.views.create('.view-main');
+    </script>
+  </body>
+</html>
