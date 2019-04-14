@@ -5,8 +5,8 @@
 
     <g id="group0">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led0"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -26,8 +26,8 @@
 
     <g id="group1" transform="rotate(6,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led1"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -47,8 +47,8 @@
 
     <g id="group2" transform="rotate(12,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led2"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -68,8 +68,8 @@
 
     <g id="group3" transform="rotate(18,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led3"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -89,8 +89,8 @@
 
     <g id="group4" transform="rotate(24,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led4"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -110,8 +110,8 @@
 
     <g id="group5" transform="rotate(30,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led5"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -131,8 +131,8 @@
 
     <g id="group6" transform="rotate(36,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led6"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -152,8 +152,8 @@
 
     <g id="group7" transform="rotate(42,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led7"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -173,8 +173,8 @@
 
     <g id="group8" transform="rotate(48,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led8"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -194,8 +194,8 @@
 
     <g id="group9" transform="rotate(54,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led9"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -215,8 +215,8 @@
 
     <g id="group10" transform="rotate(60,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led10"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -235,9 +235,9 @@
     </g>
 
     <g id="group11" transform="rotate(66,250,250)">
-        <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <rect x="242.5" y="12.5" width="15" height="15" fill="white" /> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led11"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -257,8 +257,8 @@
 
     <g id="group12" transform="rotate(72,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led12"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -278,8 +278,8 @@
 
     <g id="group13" transform="rotate(78,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led13"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -299,8 +299,8 @@
 
     <g id="group14" transform="rotate(84,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led14"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -320,8 +320,8 @@
 
     <g id="group15" transform="rotate(90,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led15"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -341,8 +341,8 @@
 
     <g id="group16" transform="rotate(96,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led16"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -362,8 +362,8 @@
 
     <g id="group17" transform="rotate(102,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led17"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -383,8 +383,8 @@
 
     <g id="group18" transform="rotate(108,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led18"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -404,8 +404,8 @@
 
     <g id="group19" transform="rotate(114,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led19"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -425,8 +425,8 @@
 
     <g id="group20" transform="rotate(120,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led20"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -446,8 +446,8 @@
 
     <g id="group21" transform="rotate(126,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led21"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -467,8 +467,8 @@
 
     <g id="group22" transform="rotate(132,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led22"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -488,8 +488,8 @@
 
     <g id="group23" transform="rotate(138,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led23"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -509,8 +509,8 @@
 
     <g id="group24" transform="rotate(144,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led24"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -530,8 +530,8 @@
 
     <g id="group25" transform="rotate(150,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led25"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -551,8 +551,8 @@
 
     <g id="group26" transform="rotate(156,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led26"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -572,8 +572,8 @@
 
     <g id="group27" transform="rotate(162,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led27"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -593,8 +593,8 @@
 
     <g id="group28" transform="rotate(168,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led28"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -614,8 +614,8 @@
 
     <g id="group29" transform="rotate(174,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led29"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -635,8 +635,8 @@
 
     <g id="group30" transform="rotate(180,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led30"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -656,8 +656,8 @@
 
     <g id="group31" transform="rotate(186,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led31"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -677,8 +677,8 @@
 
     <g id="group32" transform="rotate(192,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led32"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -698,8 +698,8 @@
 
     <g id="group33" transform="rotate(198,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led33"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -719,8 +719,8 @@
 
     <g id="group34" transform="rotate(204,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led34"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -740,8 +740,8 @@
 
     <g id="group35" transform="rotate(210,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led35"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -761,8 +761,8 @@
 
     <g id="group36" transform="rotate(216,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led36"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -782,8 +782,8 @@
 
     <g id="group37" transform="rotate(222,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led37"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -803,8 +803,7 @@
 
     <g id="group38" transform="rotate(228,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led38"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -824,8 +823,8 @@
 
     <g id="group39" transform="rotate(234,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led39"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -845,8 +844,8 @@
 
     <g id="group40" transform="rotate(240,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led40"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -866,8 +865,8 @@
 
     <g id="group41" transform="rotate(246,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led41"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -887,8 +886,8 @@
 
     <g id="group42" transform="rotate(252,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led42"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -908,8 +907,8 @@
 
     <g id="group43" transform="rotate(258,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led43"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -929,8 +928,8 @@
 
     <g id="group44" transform="rotate(264,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led44"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -950,8 +949,8 @@
 
     <g id="group45" transform="rotate(270,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led45"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -971,8 +970,8 @@
 
     <g id="group46" transform="rotate(276,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led46"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -992,8 +991,8 @@
 
     <g id="group47" transform="rotate(282,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led47"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1013,8 +1012,8 @@
 
     <g id="group48" transform="rotate(288,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led48"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1034,8 +1033,8 @@
 
     <g id="group49" transform="rotate(294,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led49"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1055,8 +1054,8 @@
 
     <g id="group50" transform="rotate(300,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led50"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1076,8 +1075,8 @@
 
     <g id="group51" transform="rotate(306,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led51"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1097,8 +1096,8 @@
 
     <g id="group52" transform="rotate(312,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led52"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1118,8 +1117,8 @@
 
     <g id="group53" transform="rotate(318,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led53"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1139,8 +1138,8 @@
 
     <g id="group54" transform="rotate(324,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led54"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1160,8 +1159,8 @@
 
     <g id="group55" transform="rotate(330,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led55"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1181,8 +1180,8 @@
 
     <g id="group56" transform="rotate(336,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led56"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1202,8 +1201,8 @@
 
     <g id="group57" transform="rotate(342,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led57"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1223,8 +1222,8 @@
 
     <g id="group58" transform="rotate(348,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led58"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
@@ -1244,8 +1243,8 @@
 
     <g id="group59" transform="rotate(354,250,250)">
         <rect x="242.5" y="12.5" width="15" height="15" fill="white" />
-        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>  
-        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/> 
+        <circle cx="250" cy="20" r="6.5" fill="#BDC3C7"/>
+        <circle cx="250" cy="20" r="6.5" class="led" fill="#BDC3C7" id="led59"/>           
         <line x1="250" y1="13.5" x2="250" y2="26.5" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="16.75" x2="256.5" y2="16.75" stroke-width="0.5" stroke="white" />
         <line x1="251.25" y1="23.25" x2="256.5" y2="23.25" stroke-width="0.5" stroke="white" />
