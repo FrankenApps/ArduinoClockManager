@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <path d="M250,10C382.46,10 490,117.54 490,250C490,382.46 382.46,490 250,490C117.54,490 10,382.46 10,250C10,117.54 117.54,10 250,10ZM250,30.991C370.874,30.991 469.009,129.126 469.009,250C469.009,370.874 370.874,469.009 250,469.009C129.126,469.009 30.991,370.874 30.991,250C30.991,129.126 129.126,30.991 250,30.991Z"/>
+    <g id="group0">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led0" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group1" transform="matrix(0.994522,0.104528,-0.104528,0.994522,27.5016,-24.7626)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led1" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group2" transform="matrix(0.978148,0.207912,-0.207912,0.978148,57.441,-46.5148)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led2" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group3" transform="matrix(0.951057,0.309017,-0.309017,0.951057,89.4901,-65.0184)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led3" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group4" transform="matrix(0.913545,0.406737,-0.406737,0.913545,123.298,-80.0705)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led4" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group5" transform="matrix(0.866025,0.5,-0.5,0.866025,158.494,-91.5064)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led5" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group6" transform="matrix(0.809017,0.587785,-0.587785,0.809017,194.692,-99.2006)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led6" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group7" transform="matrix(0.743145,0.669131,-0.669131,0.743145,231.496,-103.069)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led7" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group8" transform="matrix(0.669131,0.743145,-0.743145,0.669131,268.504,-103.069)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led8" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group9" transform="matrix(0.587785,0.809017,-0.809017,0.587785,305.308,-99.2006)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led9" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group10" transform="matrix(0.5,0.866025,-0.866025,0.5,341.506,-91.5064)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led10" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group11" transform="matrix(0.406737,0.913545,-0.913545,0.406737,376.702,-80.0705)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led11" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group12" transform="matrix(0.309017,0.951057,-0.951057,0.309017,410.51,-65.0184)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led12" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group13" transform="matrix(0.207912,0.978148,-0.978148,0.207912,442.559,-46.5148)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led13" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group14" transform="matrix(0.104528,0.994522,-0.994522,0.104528,472.498,-24.7626)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led14" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group15" transform="matrix(-3.82857e-16,1,-1,-3.82857e-16,500,8.52651e-14)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led15" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group16" transform="matrix(-0.104528,0.994522,-0.994522,-0.104528,524.763,27.5016)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led16" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group17" transform="matrix(-0.207912,0.978148,-0.978148,-0.207912,546.515,57.441)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led17" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group18" transform="matrix(-0.309017,0.951057,-0.951057,-0.309017,565.018,89.4901)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led18" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group19" transform="matrix(-0.406737,0.913545,-0.913545,-0.406737,580.071,123.298)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led19" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group20" transform="matrix(-0.5,0.866025,-0.866025,-0.5,591.506,158.494)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led20" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group21" transform="matrix(-0.587785,0.809017,-0.809017,-0.587785,599.201,194.692)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led21" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group22" transform="matrix(-0.669131,0.743145,-0.743145,-0.669131,603.069,231.496)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led22" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group23" transform="matrix(-0.743145,0.669131,-0.669131,-0.743145,603.069,268.504)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led23" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group24" transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,599.201,305.308)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led24" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group25" transform="matrix(-0.866025,0.5,-0.5,-0.866025,591.506,341.506)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led25" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group26" transform="matrix(-0.913545,0.406737,-0.406737,-0.913545,580.071,376.702)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led26" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group27" transform="matrix(-0.951057,0.309017,-0.309017,-0.951057,565.018,410.51)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led27" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group28" transform="matrix(-0.978148,0.207912,-0.207912,-0.978148,546.515,442.559)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led28" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group29" transform="matrix(-0.994522,0.104528,-0.104528,-0.994522,524.763,472.498)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led29" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group30" transform="matrix(-1,-7.65714e-16,7.65714e-16,-1,500,500)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led30" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group31" transform="matrix(-0.994522,-0.104528,0.104528,-0.994522,472.498,524.763)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led31" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group32" transform="matrix(-0.978148,-0.207912,0.207912,-0.978148,442.559,546.515)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led32" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group33" transform="matrix(-0.951057,-0.309017,0.309017,-0.951057,410.51,565.018)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led33" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group34" transform="matrix(-0.913545,-0.406737,0.406737,-0.913545,376.702,580.071)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led34" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group35" transform="matrix(-0.866025,-0.5,0.5,-0.866025,341.506,591.506)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led35" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group36" transform="matrix(-0.809017,-0.587785,0.587785,-0.809017,305.308,599.201)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led36" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group37" transform="matrix(-0.743145,-0.669131,0.669131,-0.743145,268.504,603.069)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led37" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group38" transform="matrix(-0.669131,-0.743145,0.743145,-0.669131,231.496,603.069)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led38" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group39" transform="matrix(-0.587785,-0.809017,0.809017,-0.587785,194.692,599.201)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led39" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group40" transform="matrix(-0.5,-0.866025,0.866025,-0.5,158.494,591.506)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led40" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group41" transform="matrix(-0.406737,-0.913545,0.913545,-0.406737,123.298,580.071)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led41" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group42" transform="matrix(-0.309017,-0.951057,0.951057,-0.309017,89.4901,565.018)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led42" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group43" transform="matrix(-0.207912,-0.978148,0.978148,-0.207912,57.441,546.515)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led43" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group44" transform="matrix(-0.104528,-0.994522,0.994522,-0.104528,27.5016,524.763)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led44" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group45" transform="matrix(7.04481e-16,-1,1,7.04481e-16,-1.7053e-13,500)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led45" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group46" transform="matrix(0.104528,-0.994522,0.994522,0.104528,-24.7626,472.498)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led46" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group47" transform="matrix(0.207912,-0.978148,0.978148,0.207912,-46.5148,442.559)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led47" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group48" transform="matrix(0.309017,-0.951057,0.951057,0.309017,-65.0184,410.51)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led48" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group49" transform="matrix(0.406737,-0.913545,0.913545,0.406737,-80.0705,376.702)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led49" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group50" transform="matrix(0.5,-0.866025,0.866025,0.5,-91.5064,341.506)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led50" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group51" transform="matrix(0.587785,-0.809017,0.809017,0.587785,-99.2006,305.308)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led51" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group52" transform="matrix(0.669131,-0.743145,0.743145,0.669131,-103.069,268.504)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led52" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group53" transform="matrix(0.743145,-0.669131,0.669131,0.743145,-103.069,231.496)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led53" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group54" transform="matrix(0.809017,-0.587785,0.587785,0.809017,-99.2006,194.692)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led54" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group55" transform="matrix(0.866025,-0.5,0.5,0.866025,-91.5064,158.494)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led55" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group56" transform="matrix(0.913545,-0.406737,0.406737,0.913545,-80.0705,123.298)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led56" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group57" transform="matrix(0.951057,-0.309017,0.309017,0.951057,-65.0184,89.4901)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led57" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group58" transform="matrix(0.978148,-0.207912,0.207912,0.978148,-46.5148,57.441)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led58" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="group59" transform="matrix(0.994522,-0.104528,0.104528,0.994522,-24.7626,27.5016)">
+        <rect x="242.5" y="12.5" width="15" height="15" style="fill:white;"/>
+        <circle cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <circle id="led59" cx="250" cy="20" r="6.5" style="fill:rgb(189,195,199);"/>
+        <path d="M250,13.5L250,26.5" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,16.75L256.5,16.75" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M251.25,23.25L256.5,23.25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,21L250,21" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19L250,19" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,19.25L244.5,15" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <path d="M244.5,20.75L244.5,25" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:0.5px;"/>
+        <rect x="250" y="16.5" width="1.5" height="7" style="fill:white;"/>
+        <rect x="249.75" y="19" width="1" height="2" style="fill:rgb(66,73,73);"/>
+        <path d="M241.25,25L242.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,20L242.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M241.25,15L242.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,25L257.5,25" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,20L257.5,20" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+        <path d="M258.75,15L257.5,15" style="fill:none;fill-rule:nonzero;stroke:rgb(202,207,210);stroke-width:1.5px;"/>
+    </g>
+    <g id="resistor0" transform="matrix(0.99863,0.052336,-0.052336,0.99863,13.4266,-12.7414)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor1" transform="matrix(0.987688,0.156434,-0.156434,0.987688,42.1865,-36.0307)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor2" transform="matrix(0.965926,0.258819,-0.258819,0.965926,73.2233,-56.1862)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor3" transform="matrix(0.93358,0.358368,-0.358368,0.93358,106.197,-72.9871)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor4" transform="matrix(0.891007,0.45399,-0.45399,0.891007,140.746,-86.2493)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor5" transform="matrix(0.838671,0.544639,-0.544639,0.838671,176.492,-95.8274)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor6" transform="matrix(0.777146,0.62932,-0.62932,0.777146,213.044,-101.617)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor7" transform="matrix(0.707107,0.707107,-0.707107,0.707107,250,-103.553)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor8" transform="matrix(0.62932,0.777146,-0.777146,0.62932,286.956,-101.617)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor9" transform="matrix(0.544639,0.838671,-0.838671,0.544639,323.508,-95.8274)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor10" transform="matrix(0.45399,0.891007,-0.891007,0.45399,359.254,-86.2493)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor11" transform="matrix(0.358368,0.93358,-0.93358,0.358368,393.803,-72.9871)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor12" transform="matrix(0.258819,0.965926,-0.965926,0.258819,426.777,-56.1862)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor13" transform="matrix(0.156434,0.987688,-0.987688,0.156434,457.813,-36.0307)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor14" transform="matrix(0.052336,0.99863,-0.99863,0.052336,486.573,-12.7414)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor15" transform="matrix(-0.052336,0.99863,-0.99863,-0.052336,512.741,13.4266)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor16" transform="matrix(-0.156434,0.987688,-0.987688,-0.156434,536.031,42.1865)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor17" transform="matrix(-0.258819,0.965926,-0.965926,-0.258819,556.186,73.2233)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor18" transform="matrix(-0.358368,0.93358,-0.93358,-0.358368,572.987,106.197)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor19" transform="matrix(-0.45399,0.891007,-0.891007,-0.45399,586.249,140.746)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor20" transform="matrix(-0.544639,0.838671,-0.838671,-0.544639,595.827,176.492)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor21" transform="matrix(-0.62932,0.777146,-0.777146,-0.62932,601.617,213.044)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor22" transform="matrix(-0.707107,0.707107,-0.707107,-0.707107,603.553,250)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor23" transform="matrix(-0.777146,0.62932,-0.62932,-0.777146,601.617,286.956)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor24" transform="matrix(-0.838671,0.544639,-0.544639,-0.838671,595.827,323.508)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor25" transform="matrix(-0.891007,0.45399,-0.45399,-0.891007,586.249,359.254)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor26" transform="matrix(-0.93358,0.358368,-0.358368,-0.93358,572.987,393.803)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor27" transform="matrix(-0.965926,0.258819,-0.258819,-0.965926,556.186,426.777)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor28" transform="matrix(-0.987688,0.156434,-0.156434,-0.987688,536.031,457.813)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor29" transform="matrix(-0.99863,0.052336,-0.052336,-0.99863,512.741,486.573)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor30" transform="matrix(-0.99863,-0.052336,0.052336,-0.99863,486.573,512.741)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor31" transform="matrix(-0.987688,-0.156434,0.156434,-0.987688,457.813,536.031)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor32" transform="matrix(-0.965926,-0.258819,0.258819,-0.965926,426.777,556.186)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor33" transform="matrix(-0.93358,-0.358368,0.358368,-0.93358,393.803,572.987)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor34" transform="matrix(-0.891007,-0.45399,0.45399,-0.891007,359.254,586.249)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor35" transform="matrix(-0.838671,-0.544639,0.544639,-0.838671,323.508,595.827)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor36" transform="matrix(-0.777146,-0.62932,0.62932,-0.777146,286.956,601.617)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor37" transform="matrix(-0.707107,-0.707107,0.707107,-0.707107,250,603.553)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor38" transform="matrix(-0.62932,-0.777146,0.777146,-0.62932,213.044,601.617)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor39" transform="matrix(-0.544639,-0.838671,0.838671,-0.544639,176.492,595.827)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor40" transform="matrix(-0.45399,-0.891007,0.891007,-0.45399,140.746,586.249)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor41" transform="matrix(-0.358368,-0.93358,0.93358,-0.358368,106.197,572.987)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor42" transform="matrix(-0.258819,-0.965926,0.965926,-0.258819,73.2233,556.186)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor43" transform="matrix(-0.156434,-0.987688,0.987688,-0.156434,42.1865,536.031)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor44" transform="matrix(-0.052336,-0.99863,0.99863,-0.052336,13.4266,512.741)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor45" transform="matrix(0.052336,-0.99863,0.99863,0.052336,-12.7414,486.573)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor46" transform="matrix(0.156434,-0.987688,0.987688,0.156434,-36.0307,457.813)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor47" transform="matrix(0.258819,-0.965926,0.965926,0.258819,-56.1862,426.777)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor48" transform="matrix(0.358368,-0.93358,0.93358,0.358368,-72.9871,393.803)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor49" transform="matrix(0.45399,-0.891007,0.891007,0.45399,-86.2493,359.254)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor50" transform="matrix(0.544639,-0.838671,0.838671,0.544639,-95.8274,323.508)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor51" transform="matrix(0.62932,-0.777146,0.777146,0.62932,-101.617,286.956)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor52" transform="matrix(0.707107,-0.707107,0.707107,0.707107,-103.553,250)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor53" transform="matrix(0.777146,-0.62932,0.62932,0.777146,-101.617,213.044)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor54" transform="matrix(0.838671,-0.544639,0.544639,0.838671,-95.8274,176.492)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor55" transform="matrix(0.891007,-0.45399,0.45399,0.891007,-86.2493,140.746)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor56" transform="matrix(0.93358,-0.358368,0.358368,0.93358,-72.9871,106.197)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor57" transform="matrix(0.965926,-0.258819,0.258819,0.965926,-56.1862,73.2233)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor58" transform="matrix(0.987688,-0.156434,0.156434,0.987688,-36.0307,42.1865)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g id="resistor59" transform="matrix(0.99863,-0.052336,0.052336,0.99863,-12.7414,13.4266)">
+        <rect x="248" y="16.5" width="4" height="7" style="fill:rgb(151,154,154);"/>
+        <rect x="248" y="18" width="4" height="4" style="fill:rgb(126,81,9);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,191.863,101.3)">
+        <g id="text3161">
+            <text x="0px" y="0px" style="font-family:'Algerian', fantasy;font-stretch:extra-condensed;font-size:85.333px;">XII</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,40.3601,274.552)">
+        <g id="text3161-7">
+            <text x="0px" y="0px" style="font-family:'Algerian', fantasy;font-stretch:extra-condensed;font-size:85.333px;">IX</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,208.148,455.575)">
+        <g id="text3161-8">
+            <text x="0px" y="0px" style="font-family:'Algerian', fantasy;font-stretch:extra-condensed;font-size:85.333px;">VI</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,379.682,274.799)">
+        <g id="text3161-6">
+            <text x="0px" y="0px" style="font-family:'Algerian', fantasy;font-stretch:extra-condensed;font-size:85.333px;">III</text>
+        </g>
+    </g>
+</svg>
