@@ -1,3 +1,3 @@
-# Arduino Wall-Clock Manager
+# Wanduhr support files
 
-Personal hobby project in order to controll my self-built wall clock. Adjust appearance and some other stuff...
+This repository contains files needed to build a Wanduhr. The code for an ESP8266 (Wemos D1 mini) can be found in this 
