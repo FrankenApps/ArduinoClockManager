@@ -2,6 +2,8 @@
 
 This repository contains files needed to build a Wanduhr. The code for an ESP8266 (Wemos D1 mini) can be found in this [repository](https://github.com/FrankenApps/Wanduhr).
 
+A live 3D preview can be found [here](https://frankenapps.github.io/Wanduhr_support_files/).
+
 ![Wanduhr (render)](https://raw.githubusercontent.com/FrankenApps/Wanduhr_support_files/master/images/Wanduhr.gif)
 
 ## Parts list
